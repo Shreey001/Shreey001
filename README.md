@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJs,BootStrap,JS**
 
-- 👨‍💻 All of my projects are available at [shreejanbhattarai.com.np](shreejanbhattarai.com.np)
+- 👨‍💻My Personal Website : shreejanbhattarai.com.np
 
 - 📫 How to reach me **shreejanid123@gmail.com**
 
