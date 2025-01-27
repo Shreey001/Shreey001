@@ -6,8 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shreeyjan001" target="blank"><img src="https://img.shields.io/twitter/follow/shreeyjan001?logo=twitter&style=for-the-badge" alt="shreeyjan001" /></a> </p>
 
-- 🔭 I’m currently working on [E-TeaNepal](https://github.com/ashuacharya123/eTeaNepal)
-
+- 🔭 I’m currently working on [ReactJS]
 - 🌱 I’m currently learning **ReactJs,BootStrap,JS**
 
 - 👨‍💻My Personal Website : shreejanbhattarai.com.np
