@@ -79,17 +79,13 @@
 
 - Mastering React performance optimization techniques
 - Learning TypeScript integration with React
-- Exploring WebGL with Three.js
 - Contributing to open-source projects
 
 ---
 
 ### 💡 Fun Facts
 
-- 🎮 When I'm not coding, you'll find me playing Valorant
-- ☕ Can't start coding without my morning coffee
-- 🎸 Secretly learning guitar (don't tell anyone!)
-- 🚀 Dream project: Build a Nepal-themed coding learning platform
+- 🎮 When I'm not coding, you'll find me playing PUBG Mobile
 
 ---
 
@@ -98,5 +94,5 @@
 </p>
 
 <p align="center">
-  ⚡ <em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em> ⚡
+  ⚡ <em>"Code is like humor. When you have to explain it, it's bad."</em> ⚡
 </p>
