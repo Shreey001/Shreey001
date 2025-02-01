@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreey001&label=Profile+Views&color=blue&style=flat" alt="Profile views"/>
-  <img src="https://wakatime.com/badge/user/8f35e88c-3c0d-4d3d-9c7a-5a5b5b5b5b5b.svg" alt="Coding Time"/>
+ 
 </p>
 
 ---
@@ -54,7 +54,6 @@
 
 #### 🎨 Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 #### 🗄️ Databases
@@ -65,8 +64,6 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreey001&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreey001&theme=radical" alt="GitHub Streak"/>
   
