@@ -31,15 +31,11 @@
   - Tech Stack: React, Redux, Express.js, MongoDB
   - [Repo Private] 🔒
 
-- **Portfolio 2.0** - Complete redesign of personal website
-  - Features: 3D animations, Blog section, Project showcase
-  - Tech Stack: Next.js, Three.js, Tailwind CSS
-  - [Live Preview](https://shreejanbhattarai.com.np) 🌐
 
 #### 🌱 Learning Projects
 - **React Todo App** - Advanced task management system
   - Features: Drag & drop, Local storage, Theme switching
-  - Tech: React Hooks, Material-UI
+  - Tech: React Hooks,
   - [GitHub Repo](#) (Coming Soon) 🔜
 
 ---
