@@ -82,9 +82,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreey001&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
-</p>
+
 
 <p align="center">
   ⚡ <em>"Code is like humor. When you have to explain it, it's bad."</em> ⚡
