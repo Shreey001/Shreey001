@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Shreey Bhattarai</h1>
+<h1 align="center">🚀 Shreejan Bhattarai</h1>
 <h3 align="center">💻 Frontend Developer | 🎨 UI Enthusiast | 🇳🇵 Nepali Tech Explorer</h3>
 
 <p align="center">
